@@ -1,5 +1,5 @@
 # Today I learned   
-Today I Learned is quick list of snippets which i use on a daily basis and hope this will be handy in many situations. Insipred by [simonw/til](https://github.com/simonw/til)
+Today I Learned is a quick list of snippets which I learned and used on a daily or occasional basis. Documenting it through Github looks really promising and it is inspired by [simonw/til](https://github.com/simonw/til)
 
 - [MacOS](#macos)
 - [Github Actions](#github-actions)
