@@ -4,4 +4,4 @@ Today I Learned is quick list of snippets which i use on a daily basis and hope 
 - [MacOS](#macos)
 
 ## MacOS
-* [Map a Network Drive](https://github.com/simonw/til/blob/master/github-actions/only-master.md) - 2020-07-25
+* [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
