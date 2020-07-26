@@ -1,5 +1,5 @@
-## Adding Git Bash to ConEmu on Windows. 
-The folder path is a hihg level reference. You have to use your own path. [Original Reference](https://gist.github.com/nicolas-t/3fd016c7d08268722a27)
+## Adding Git Bash to ConEmu. 
+[ConEmu](https://conemu.github.io/) is handy window Terminal. To add Git Bash, the folder path is a hihg level reference. You have to use your own path. [Original Reference](https://gist.github.com/nicolas-t/3fd016c7d08268722a27)
 
 1. Open Conemu
 2. Open Settings -> Tasks or go to new tab button -> Setup tasks.
