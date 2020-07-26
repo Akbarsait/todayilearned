@@ -1,6 +1,7 @@
 # Transfer a repository from Bitbucket to Github
 A quick tip on transfering the Bitbucket repository to Github.<br/> 
-References - [http://www.blackdogfoundry.com/blog/moving-repository-from-bitbucket-to-github/](http://www.blackdogfoundry.com/blog/moving-repository-from-bitbucket-to-github/) & [http://www.paulund.co.uk/change-url-of-git-repository](http://www.paulund.co.uk/change-url-of-git-repository)
+References - [blackdogfoundry.com](http://www.blackdogfoundry.com/blog/moving-repository-from-bitbucket-to-github/) & [paulund.co.uk](http://www.paulund.co.uk/change-url-of-git-repository)
+
 1. Navigate to the folder of repo on windows. 
 ```
 $ cd /d/Projects/repo-directory (master)
