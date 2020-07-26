@@ -13,4 +13,4 @@ Today I Learned is a quick list of snippets which I learned and used on a daily 
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
 
 ## ConEmu
-* [Adding Git Bash in ComEmu](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-gitbash.md) - 2020-07-26
+* [Adding Git Bash in ComEmu](https://github.com/Akbarsait/todayilearned/blob/master/conemu-utils/adding-gitbash.md) - 2020-07-26
