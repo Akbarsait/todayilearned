@@ -1,4 +1,4 @@
-# Adding Anaconda Prompt Profile to Windows Terminal workflow
+# Adding Anaconda Prompt profile to Windows Terminal
 A quick profile for adding Anaconda Prompt in Windows Terminal. Two main things to note. 
 
 1. Commandline: Use the path of Anaconda Promt shortcut in windows. It can be identified by selecting the shortcut > Propeties. 
