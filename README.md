@@ -21,4 +21,4 @@ Today I Learned is a quick list of snippets which I learned and used on a daily 
 * [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
 
 ## Windows Terminal
-* [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/windows-terminal/adding-profile-for-anaconda.md) - 2020-08-03
+* [Adding a Profile Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/windows-terminal/adding-profile-for-anaconda.md) - 2020-08-03
