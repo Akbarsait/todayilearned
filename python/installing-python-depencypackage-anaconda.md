@@ -1,29 +1,11 @@
-# Adding Virtual Environment with Anaconda
-Seting up a virtual environment through terminal using conda for the Anaconda Python distribution . 
+# Installing Python dependency in Anaconda. 
+Installing python dependency packages through requirement.txt in Anaconda. Original solution via StackOverflow: http://stackoverflow.com/questions/35802939/install-only-available-packages-using-conda-install-yes-file-requirements-t
 
-1. Open terminal in VS Code and check conda version. 
+1. Open terminal in VS Code and innstall via `conda` directly. 
 ```
-conda -V
+conda install --yes --file requirements.txt
 ```
-2. Create a virtual environment using create command. 
+2. In case of failure over one can iterate over all lines in the requirements.txt file. 
 ```
-conda create -n myvirenvname
-```
-3. Proceed by typing ``y``. Sometimes if the name already exists conda ask you to overwrite. 
-```
-conda create -n myvirenvname
-```
-4. We can create a virtual environment with a package by giving the following command. 
-```
-conda create -n myvirenvname numpy
-```
-5. Activate Your new virtual environment".
-
-```
-conda activate myvirenvname
-```
-5. Deactivate Your new virtual environment".
-
-```
-conda deactivate
+while read requirement; do conda install --yes $requirement; done < requirements.txt
 ```
