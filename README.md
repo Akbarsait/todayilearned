@@ -11,7 +11,7 @@ Today I Learned is a quick list of snippets which I learned and used on a daily 
 
 
 ## 11ty
-* [Adding a sitempa to 11ty](https://github.com/Akbarsait/todayilearned/blob/11ty/adding-a-sitemap.md) - 2020-09-18
+* [Adding a sitempa to 11ty](https://github.com/Akbarsait/todayilearned/blob/master/11ty/adding-a-sitemap.md) - 2020-09-18
 
 ## ConEmu
 * [Adding Git Bash in ComEmu](https://github.com/Akbarsait/todayilearned/blob/master/conemu-utils/adding-gitbash.md) - 2020-07-26
