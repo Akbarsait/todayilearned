@@ -3,7 +3,7 @@ Today I Learned is a quick list of snippets which I learned and used on a daily 
 
 - [11ty](#11ty)
 - [ConEmu](#comEmu)
-- [Github](#github)
+- [Git & Github](#github)
 - [Github Actions](#github-actions)
 - [MacOS](#macos)
 - [Python](#python)
@@ -16,8 +16,9 @@ Today I Learned is a quick list of snippets which I learned and used on a daily 
 ## ConEmu
 * [Adding Git Bash in ComEmu](https://github.com/Akbarsait/todayilearned/blob/master/conemu-utils/adding-gitbash.md) - 2020-07-26
 
-## Github
+## Git & Github
 * [Transfer a repository from Bitbucket to Github](https://github.com/Akbarsait/todayilearned/blob/master/github/transfer-repository-frombitbucket-togithub.md) - 2020-07-26
+* [Updating / Synching a Forked Repo with git rebase / merge](https://github.com/Akbarsait/todayilearned/blob/master/github/updating-synching-forked-repowithgit-rebase-merge.md) - 2020-09-29
 
 ## Github Actions
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
