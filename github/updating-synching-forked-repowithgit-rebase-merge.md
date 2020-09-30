@@ -1,4 +1,4 @@
-# [Updating / Synching a Forked Repo with git rebase / merge
+# Updating / Synching a Forked Repo with git rebase / merge
 A quick tip on Updating / Synching a Forked repo in Git using rebase or merge.<br/> 
 References - [Synching a Fork](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
 
