@@ -30,6 +30,7 @@ Today I Learned is a quick list of snippets which I learned and used on a daily 
 ## Python
 * [Adding Virtual Environment with Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/adding-virtual-environment-anaconda.md) - 2020-08-03
 * [Installing Python dependency packages from requirements.txt using  Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/installing-python-depencypackage-anaconda.md) - 2020-09-12
+* [How to change Jupyter Start-up Folder (Anaconda)](https://github.com/Akbarsait/todayilearned/blob/master/python/howto-change-jupyter-notebook-startup-folder.md) - 2020-10-16
 
 ## Windows Terminal
 * [Adding a Profile for Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/windows-terminal/adding-profile-for-anaconda.md) - 2020-08-03
