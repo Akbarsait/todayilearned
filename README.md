@@ -5,6 +5,7 @@
 - [ConEmu](#comEmu)
 - [Git & Github](#github)
 - [Github Actions](#github-actions)
+- [Home Assistant](#home-assistant)
 - [MacOS](#macos)
 - [Python](#python)
 - [Windows Terminal](#windows-terminal)
