@@ -24,6 +24,9 @@
 ## Github Actions
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
 
+## Home Assistant
+* [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/adhaan-automation-nest-mini.md) - 2020-12-29
+
 ## MacOS
 * [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
 
