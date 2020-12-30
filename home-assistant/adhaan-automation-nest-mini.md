@@ -1,5 +1,5 @@
 # Adding Adhan Automation with Home Assistant and Nest Mini
-Add the following codes in respective files. Detailed instructions posted by the author [Sahar](https://community.home-assistant.io/t/adhan-automation-using-home-assistant-and-google-home-mini/135622) at Home Assistant. Customization added for Fajr and the rest of Prayer times. 
+Add the following codes in respective files. Detailed instructions posted by the author [Sahar](https://community.home-assistant.io/t/adhan-automation-using-home-assistant-and-google-home-mini/135622) at Home Assistant. Customization is added for Fajr and to the rest of the Prayer times. 
 
 1. Add the following code to `configuration.yaml`. Don't forget to change **latitude, longitude, elevation and time zone** to match your location. You can use [Timezone DB](https://timezonedb.com/) to get the information. 
 
