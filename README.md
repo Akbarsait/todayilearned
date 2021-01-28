@@ -9,6 +9,7 @@
 - [MacOS](#macos)
 - [Python](#python)
 - [Windows Terminal](#windows-terminal)
+- [Windows WSL](#windows-wsl)
 
 
 ## 11ty
@@ -38,3 +39,6 @@
 
 ## Windows Terminal
 * [Adding a Profile for Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/windows-terminal/adding-profile-for-anaconda.md) - 2020-08-03
+
+## Windows WSL
+* [Install WSL2 on Windows 10 Legacy systems](https://github.com/Akbarsait/todayilearned/blob/master/windows-wsl/install-wsl-in-windows10-legacy.md) - 2021-01-28
