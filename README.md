@@ -7,7 +7,7 @@
 - [Github Actions](#github-actions)
 - [Home Assistant](#home-assistant)
 - [MacOS](#macos)
-- [Machine Learning](Machine)
+- [Machine Learning](machine-learning)
 - [Python](#python)
 - [Windows Terminal](#windows-terminal)
 - [Windows WSL](#windows-wsl)
@@ -34,7 +34,7 @@
 * [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
 
 ## Machine Learning
-* [Getting Started with Machine Learning](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2021-04-09
+* [Getting Started with Machine Learning](https://github.com/Akbarsait/todayilearned/blob/master/machine-learning/README.md) - 2021-04-09
 
 ## Python
 * [Adding Virtual Environment with Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/adding-virtual-environment-anaconda.md) - 2020-08-03
