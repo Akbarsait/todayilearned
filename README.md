@@ -7,6 +7,7 @@
 - [Github Actions](#github-actions)
 - [Home Assistant](#home-assistant)
 - [MacOS](#macos)
+- [Machine Learning](Machine)
 - [Python](#python)
 - [Windows Terminal](#windows-terminal)
 - [Windows WSL](#windows-wsl)
