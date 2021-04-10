@@ -32,6 +32,9 @@
 ## MacOS
 * [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
 
+## Machine Learning
+* [Getting Started with Machine Learning](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2021-04-09
+
 ## Python
 * [Adding Virtual Environment with Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/adding-virtual-environment-anaconda.md) - 2020-08-03
 * [Installing Python dependency packages from requirements.txt using  Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/installing-python-depencypackage-anaconda.md) - 2020-09-12
