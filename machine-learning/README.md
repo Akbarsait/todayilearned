@@ -29,7 +29,7 @@ A series of tutorials by Corey Schafer on learning how to get started with Matpl
 ### [Seaborn Tutorials](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 A complete coverage of Seaborn with many real world examples. Seaborn is a data visualization library built on top of Matplotlib by Derek Banas. 
 
-### [Scikit-Learn | Machine Learning with Scikit-Learn]https://www.youtube.com/watch?v=0Lt9w-BxKFQ)
+### [Scikit-Learn | Machine Learning with Scikit-Learn](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)
 Scikit-learn tutorial will help you understand what is Scikit-learn, what can we achieve using Scikit-learn and a demo on how to use Scikit-learn in Python by Simplilearn. 
 
 ### [Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes](https://www.youtube.com/watch?v=LDRbO9a6XPU)
