@@ -1,16 +1,18 @@
 # Today I learned - TIL
 `Today I Learned` is a quick list of snippets which I learned and used on a daily or occasional basis. Documenting it through Github looks really promising. Inspired by [simonw/til](https://github.com/simonw/til)
 
-- [11ty](#11ty)
-- [ConEmu](#comEmu)
-- [Git & Github](#github)
-- [Github Actions](#github-actions)
-- [Home Assistant](#home-assistant)
-- [MacOS](#macos)
-- [Machine Learning](#machine-learning)
-- [Python](#python)
-- [Windows Terminal](#windows-terminal)
-- [Windows WSL](#windows-wsl)
+- [Today I learned - TIL](#today-i-learned---til)
+  - [11ty](#11ty)
+  - [ConEmu](#conemu)
+  - [Git & Github](#git--github)
+  - [Github Actions](#github-actions)
+  - [Home Assistant](#home-assistant)
+  - [MacOS](#macos)
+  - [Machine Learning](#machine-learning)
+  - [Microsoft Azure](#microsoft-azure)
+  - [Python](#python)
+  - [Windows Terminal](#windows-terminal)
+  - [Windows WSL](#windows-wsl)
 
 
 ## 11ty
@@ -35,6 +37,9 @@
 
 ## Machine Learning
 * [Getting Started with Machine Learning](https://github.com/Akbarsait/todayilearned/blob/master/machine-learning/README.md) - 2021-04-09
+
+## Microsoft Azure
+* [Microsoft Azure Fundamentals AZ-900](https://github.com/Akbarsait/todayilearned/blob/master/microsof-azure/az-900.md) - 2022-01-20
 
 ## Python
 * [Adding Virtual Environment with Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/adding-virtual-environment-anaconda.md) - 2020-08-03
