@@ -39,7 +39,7 @@
 * [Getting Started with Machine Learning](https://github.com/Akbarsait/todayilearned/blob/master/machine-learning/README.md) - 2021-04-09
 
 ## Microsoft
-* [Microsoft Azure Fundamentals AZ-900](https://github.com/Akbarsait/todayilearned/blob/master/microsoft/az-900.md) - 2022-01-20
+* [Microsoft Azure Fundamentals AZ-900](https://github.com/Akbarsait/todayilearned/blob/master/microsoft/azure-az900.md) - 2022-01-20
 
 
 ## Python
