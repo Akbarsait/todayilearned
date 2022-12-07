@@ -17,7 +17,7 @@ https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-mana
 - [Udemy: AZ-900: Microsoft Azure Fundamentals Exam Prep - DEC 2021](https://www.udemy.com/course/az900-azure/)
 - [Udemy: AZ-900: Microsoft Azure Fundamentals Original Practice Tests](https://www.udemy.com/course/az900-azure-tests/)
 - [LinkedIn: Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) ](https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-azure-fundamentals-exam-az-900?u=76281980)
-- [Youtube: Prepare for the Microsoft Azure Fundamentals Exam AZ-900 by Tim Warner )](https://www.youtube.com/playlist?list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv)
+- [Youtube: Prepare for the Microsoft Azure Fundamentals Exam AZ-900 by Tim Warner ](https://www.youtube.com/playlist?list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv)
 - [Youtube: AZ-900 Azure Fundamentals Certification Course by John Savill](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
 
