@@ -21,7 +21,7 @@ Please follow the instruction in step-1 or Step-2 on enabling virtualization bas
     #Run this to will make all distros run on WSL2 by default:
     wsl --set-default-version 2
 ```
-- Now it is time to install your favorite Linux distro. I installed Ubuntu. Now open PowerShell and ensure that WSL is correctly using version 2 for your distro:
+- Now it is time to install your favorite Linux distro. I installed Ubuntu. Now open PowerShell and ensure that WSL is correctly using version 2 for your Linux distro:
 ```
       wsl --list -v
  ```
