@@ -4,15 +4,17 @@
 - [Today I learned - TIL](#today-i-learned---til)
   - [11ty](#11ty)
   - [ConEmu](#conemu)
-  - [Git & Github](#git--github)
+  - [Git \& Github](#git--github)
   - [Github Actions](#github-actions)
   - [Home Assistant](#home-assistant)
   - [MacOS](#macos)
   - [Machine Learning](#machine-learning)
   - [Microsoft](#microsoft)
+  - [PHP](#php)
   - [Python](#python)
   - [Windows Terminal](#windows-terminal)
   - [Windows WSL](#windows-wsl)
+  - [XAMPP/Apache](#xamppapache)
 
 
 ## 11ty
@@ -41,6 +43,8 @@
 ## Microsoft
 * [Microsoft Azure Fundamentals AZ-900](https://github.com/Akbarsait/todayilearned/blob/master/microsoft/azure-az900.md) - 2022-01-20
 
+## PHP
+* [Serving Files outside of htdocs with xampp and Apache](https://github.com/Akbarsait/todayilearned/blob/master/php/howto-xampp-apache-servesoutside-htdocs) - 2023-02-03
 
 ## Python
 * [Adding Virtual Environment with Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/adding-virtual-environment-anaconda.md) - 2020-08-03
@@ -52,3 +56,6 @@
 
 ## Windows WSL
 * [Install WSL2 on Windows 10 Legacy systems](https://github.com/Akbarsait/todayilearned/blob/master/windows-wsl/install-wsl-in-windows10-legacy.md) - 2021-01-28
+
+## XAMPP/Apache
+* [Serving Files outside of htdocs with xampp and Apache](https://github.com/Akbarsait/todayilearned/blob/master/php/howto-xampp-apache-servesoutside-htdocs) - 2023-02-03
