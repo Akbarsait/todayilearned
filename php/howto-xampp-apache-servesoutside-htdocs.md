@@ -33,7 +33,8 @@ to
     <Directory "D:/projects">
 ```
 
-4. Find the <IfModule alias_module></IfModule> block and add
+1. In the ```<IfModule alias_module></IfModule>```
+ block, include the Alias mapping as below. 
 ```
    Alias /mypro "D:/projects/mypro"
 
