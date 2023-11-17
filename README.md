@@ -5,6 +5,7 @@
   - [11ty](#11ty)
   - [ConEmu](#conemu)
   - [Git \& Github](#git--github)
+  - [Google Cloud](#google-cloud)
   - [Github Actions](#github-actions)
   - [Home Assistant](#home-assistant)
   - [MacOS](#macos)
@@ -27,6 +28,9 @@
 ## Git & Github
 * [Transfer a repository from Bitbucket to Github](https://github.com/Akbarsait/todayilearned/blob/master/github/transfer-repository-frombitbucket-togithub.md) - 2020-07-26
 * [Updating / Synching a Forked Repo with git rebase / merge](https://github.com/Akbarsait/todayilearned/blob/master/github/updating-synching-forked-repowithgit-rebase-merge.md) - 2020-09-29
+  
+## Google Cloud
+
 
 ## Github Actions
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
