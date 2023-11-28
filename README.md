@@ -26,9 +26,9 @@
 * [Adding Git Bash in ComEmu](https://github.com/Akbarsait/todayilearned/blob/master/conemu-utils/adding-gitbash.md) - 2020-07-26
 
 ## Git & Github
-* [Transfer a repository from Bitbucket to Github](https://github.com/Akbarsait/todayilearned/blob/master/github/transfer-repository-frombitbucket-togithub.md) - 2020-07-26
-* [Updating / Synching a Forked Repo with git rebase / merge](https://github.com/Akbarsait/todayilearned/blob/master/github/updating-synching-forked-repowithgit-rebase-merge.md) - 2020-09-29
-  
+* [Transfer a repository from Bitbucket to Github](https://github.com/Akbarsait/todayilearned/blob/master/git/transfer-repository-frombitbucket-togithub.md) - 2020-07-26
+* [Updating / Synching a Forked Repo with git rebase / merge](https://github.com/Akbarsait/todayilearned/blob/master/git/updating-synching-forked-repowithgit-rebase-merge.md) - 2020-09-29
+* [Push an existing Repository to a new Repositor](https://github.com/Akbarsait/todayilearned/blob/master/git/push-existing-repo-tonew-repo.md) - 2023-09-20  
 ## Google Cloud
 
 
