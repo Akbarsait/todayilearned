@@ -28,9 +28,10 @@
 ## Git & Github
 * [Transfer a repository from Bitbucket to Github](https://github.com/Akbarsait/todayilearned/blob/master/git/transfer-repository-frombitbucket-togithub.md) - 2020-07-26
 * [Updating / Synching a Forked Repo with git rebase / merge](https://github.com/Akbarsait/todayilearned/blob/master/git/updating-synching-forked-repowithgit-rebase-merge.md) - 2020-09-29
-* [Push an existing Repository to a new Repositor](https://github.com/Akbarsait/todayilearned/blob/master/git/push-existing-repo-tonew-repo.md) - 2023-09-20  
+* [Push an existing Repository to a new Repositor](https://github.com/Akbarsait/todayilearned/blob/master/git/push-existing-repo-tonew-repo.md) - 2023-09-20
+    
 ## Google Cloud
-
+* [](https://github.com/Akbarsait/todayilearned/blob/master/google-cloud/google-cloud-digital-leader.md) - 2023-11-28
 
 ## Github Actions
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
