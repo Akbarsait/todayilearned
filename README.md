@@ -21,7 +21,9 @@
 ## 11ty
 * [Adding a sitempa to 11ty](https://github.com/Akbarsait/todayilearned/blob/master/11ty/adding-a-sitemap.md) - 2020-09-18
 * [Adding Pagination](https://github.com/Akbarsait/todayilearned/blob/master/11ty/adding-pagination.md) - 2020-10-13
-
+* [11ty resources](https://github.com/Akbarsait/todayilearned/blob/master/11ty/11ty-resources.md) - 2023-11-30
+* [BlogCFC to 11ty](https://github.com/Akbarsait/todayilearned/blob/master/11ty/blogcfc-to-11ty.md) - 2023-12-21
+    
 ## ConEmu
 * [Adding Git Bash in ComEmu](https://github.com/Akbarsait/todayilearned/blob/master/conemu-utils/adding-gitbash.md) - 2020-07-26
 
@@ -31,7 +33,7 @@
 * [Push an existing Repository to a new Repositor](https://github.com/Akbarsait/todayilearned/blob/master/git/push-existing-repo-tonew-repo.md) - 2023-09-20
     
 ## Google Cloud
-* [](https://github.com/Akbarsait/todayilearned/blob/master/google-cloud/google-cloud-digital-leader.md) - 2023-11-28
+* [Google Cloud Digital Leader](https://github.com/Akbarsait/todayilearned/blob/master/google-cloud/google-cloud-digital-leader.md) - 2023-11-28
 
 ## Github Actions
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
