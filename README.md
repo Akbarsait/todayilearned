@@ -57,6 +57,7 @@
 * [Adding Virtual Environment with Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/adding-virtual-environment-anaconda.md) - 2020-08-03
 * [Installing Python dependency packages from requirements.txt using  Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/python/installing-python-depencypackage-anaconda.md) - 2020-09-12
 * [How to change Jupyter Start-up Folder (Anaconda)](https://github.com/Akbarsait/todayilearned/blob/master/python/howto-change-jupyter-notebook-startup-folder.md) - 2020-10-16
+* [Using and Installing Latest Python Version in Laragon](/todayilearned/python/using-and-installing-latest-python-version-in-laragon.md)
 
 ## Windows Terminal
 * [Adding a Profile for Anaconda](https://github.com/Akbarsait/todayilearned/blob/master/windows-terminal/adding-profile-for-anaconda.md) - 2020-08-03
