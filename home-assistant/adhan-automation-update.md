@@ -1,9 +1,15 @@
 # Adding Adhan Automation with Home Assistant and Nest Mini
 Add the following codes in respective files. Detailed instructions posted by the author [Sahar](https://community.home-assistant.io/t/adhan-automation-using-home-assistant-and-google-home-mini/135622) at Home Assistant. Customization is added for Fajr and to the rest of the Prayer times. 
 
+> **Created**: 12/29/2020 **Updated**: 02/07/2024
+
+Requires the following two integrations. 
+- [Islamic Prayer Times](https://www.home-assistant.io/integrations/islamic_prayer_times)
+- [Time & Date](https://www.home-assistant.io/integrations/time_date)
+
 1. Add the following code to `configuration.yaml`. Don't forget to change **latitude, longitude, elevation and time zone** to match your location. You can use [Timezone DB](https://timezonedb.com/) to get the information. 
 
-````yaml
+```yaml
 # Configure a default setup of Home Assistant (frontend, api, etc)
 # to find lat and long - https://www.maps.ie/coordinates.html
 homeassistant:
@@ -16,7 +22,7 @@ homeassistant:
 
 default_config:
 discovery:
-media_extractor:
+#media_extractor:
 sun:
 
 # Islamic prayer times integration starts updated 12/04/22
@@ -28,8 +34,7 @@ sensor:
       - "date"
       - "date_time"
       - "time_date"
-  - platform: islamic_prayer_times
-    calculation_method: isna
+    calculation_method: Shafi
     sensors:
       - fajr
       - dhuhr
@@ -41,30 +46,18 @@ sensor:
 tts:
   - platform: google_translate
 
-
-# added for google-assistant integration 11/12/22
-google_assistant:
-  project_id: akbarhome-gaha-43443
-  service_account: !include SERVICE_ACCOUNT.json
-  report_state: true
-  exposed_domains:
-    - switch
-    - light
-    - sensor
-    - script
-    - media_player
-
 group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
+```
 
-````
+2. In `automation.yaml`, add the following codes. The code includes references of my system ID and path. Kindly update it accordingly. 
+   - replace **nest_mini_office** with your Google Home Mini entity ID. 
+   - replace the media content location. 
 
-2. Open `automation.yaml` file to add the following code. Caution: In the code below, against entity_id, don’t forget to replace **nest_mini_office** with your Google Home Mini ID. In the code below you have to enter your google home mini name in small letters. If the name is more than a one-word name, you have to put under-score after every word. Let say the name of your device is My Home, it should be written as my_home. If it is one word name only, just type it in small letters.
-
-````yaml
-# Automation for Fajr  Adhan
+```yaml
+# Automation for Fajr Adhan
 - action:
     - alias: "FajrAdhan"
       data:
