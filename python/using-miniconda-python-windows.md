@@ -1,5 +1,5 @@
 # Miniconda configuration on Windows for Python
-Setting up a Miniconda in windows for Python development . 
+Setting up a Miniconda in windows for Python development. 
 
 1. Install Miniconda for Windows from [https://conda.io/](https://conda.io/).
 
