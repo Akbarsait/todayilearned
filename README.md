@@ -19,7 +19,7 @@
 
 
 ## 11ty
-* [Adding a sitempa to 11ty](https://github.com/Akbarsait/todayilearned/blob/master/11ty/adding-a-sitemap.md) - 2020-09-18
+* [Adding a sitemap to 11ty](https://github.com/Akbarsait/todayilearned/blob/master/11ty/adding-a-sitemap.md) - 2020-09-18
 * [Adding Pagination](https://github.com/Akbarsait/todayilearned/blob/master/11ty/adding-pagination.md) - 2020-10-13
 * [11ty resources](https://github.com/Akbarsait/todayilearned/blob/master/11ty/11ty-resources.md) - 2023-11-30
 * [BlogCFC to 11ty](https://github.com/Akbarsait/todayilearned/blob/master/11ty/blogcfc-to-11ty.md) - 2023-12-21
@@ -40,6 +40,8 @@
 
 ## Home Assistant
 * [Adhan Automation using Home Assistant and Nest Mini](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/adhaan-automation-nest-mini.md) - 2020-12-29
+* [Adhan Automation Updated](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/adhaan-automation-update.md)
+* [Automating Home Assistant Configuration to GitHub](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/automating-homeassistant-configs-to-github.md)
 
 ## MacOS
 * [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
@@ -48,7 +50,7 @@
 * [Getting Started with Machine Learning](https://github.com/Akbarsait/todayilearned/blob/master/machine-learning/README.md) - 2021-04-09
 
 ## Microsoft
-* [Microsoft Azure Fundamentals AZ-900](https://github.com/Akbarsait/todayilearned/blob/master/microsoft/azure-az900.md) - 2022-01-20
+* [Microsoft Azure Fundamentals AZ-900](/microsoft/azure-az900.md) - 2022-01-20
 
 ## PHP
 * [Serving Files outside of htdocs with xampp and Apache](https://github.com/Akbarsait/todayilearned/blob/master/php/howto-xampp-apache-servesoutside-htdocs.md) - 2023-02-03
