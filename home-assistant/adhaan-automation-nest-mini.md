@@ -58,15 +58,6 @@ sensor:
            {%- set a = states("sensor.isha_prayer").split("T")[1].split(":")[0] -%}
            {%- set b = states("sensor.isha_prayer").split("T")[1].split(":")[1] -%}
            {{ a + ":" + b }}
-
-# Text to speech
-tts:
-  - platform: google_translate
-
-group: !include groups.yaml
-automation: !include automations.yaml
-script: !include scripts.yaml
-
 ````
 
 2. Open `automation.yaml` file to add the following code. Caution: In the code below, against entity_id, don’t forget to replace **nest_mini_office** with your Google Home Mini ID. In the code below you have to enter your google home mini name in small letters. If the name is more than a one-word name, you have to put under-score after every word. Let say the name of your device is My Home, it should be written as my_home. If it is one word name only, just type it in small letters.
@@ -112,12 +103,4 @@ script: !include scripts.yaml
     - platform: template
       value_template: '{{ as_timestamp(strptime(states("sensor.time_date"), "%H:%M, %Y-%m-%d")) == as_timestamp(strptime(states("sensor.isha_prayer"), "%Y-%m-%dT%H:%M:%S")) }}'
 
-
-### Restart HA to force update Islamic Time Sensors at 1AM ###
-- alias: Restart HA
-  trigger: 
-    platform: time
-    at: "01:00:00"
-  action:
-    - service: homeassistant.restart
 ```

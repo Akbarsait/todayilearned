@@ -101,11 +101,4 @@ scene: !include scenes.yaml
     - platform: template
       value_template: '{{ now().timestamp()|int == as_timestamp(states("sensor.isha_prayer")) }}'
 
-### Restart HA to force update Islamic Time Sensors at 1AM ###
-- alias: Restart HA
-  trigger:
-    platform: time
-    at: "01:00:00"
-  action:
-    - service: homeassistant.restart
 ```
