@@ -11,6 +11,7 @@
   - [MacOS](#macos)
   - [Machine Learning](#machine-learning)
   - [Microsoft](#microsoft)
+  - [Home Network Tips](#home-network-tips)
   - [PHP](#php)
   - [Python](#python)
   - [Windows Terminal](#windows-terminal)
@@ -39,9 +40,9 @@
 * [Adding a Simple Workflow](https://github.com/Akbarsait/todayilearned/blob/master/github-actions/adding-a-simple-workflow.md) - 2020-07-25
 
 ## Home Assistant
-* [Adhan Automation using Home Assistant and Nest Mini](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/adhaan-automation-nest-mini.md) - 2020-12-29
-* [Adhan Automation Updated](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/adhaan-automation-update.md)
-* [Automating Home Assistant Configuration to GitHub](https://github.com/Akbarsait/todayilearned/blob/master/home-assistant/automating-homeassistant-configs-to-github.md)
+* [Adhan Automation using Home Assistant and Nest Mini](/home-assistant/adhaan-automation-nest-mini.md) - 2020-12-29
+* [Adhan Automation Updated](/home-assistant/adhan-automation-update.md)
+* [Automating Home Assistant Configuration to GitHub](/home-assistant/automating-homeassistant-configs-to-github.md)
 
 ## MacOS
 * [Map a Network Drive](https://github.com/Akbarsait/todayilearned/blob/master/macos/map-a-network-drive.md) - 2020-07-25
@@ -51,6 +52,9 @@
 
 ## Microsoft
 * [Microsoft Azure Fundamentals AZ-900](/microsoft/azure-az900.md) - 2022-01-20
+
+## Home Network Tips
+* [Adding Two Router in One Home Network](/network/adding-two-routers-in-homenetwork.md)
 
 ## PHP
 * [Serving Files outside of htdocs with xampp and Apache](https://github.com/Akbarsait/todayilearned/blob/master/php/howto-xampp-apache-servesoutside-htdocs.md) - 2023-02-03
